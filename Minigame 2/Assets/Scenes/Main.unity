@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 30066713}
   - component: {fileID: 30066712}
   - component: {fileID: 30066711}
-  m_Layer: 20
+  m_Layer: 21
   m_Name: Prop (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3269,7 +3269,7 @@ GameObject:
   - component: {fileID: 186447592}
   - component: {fileID: 186447591}
   - component: {fileID: 186447590}
-  m_Layer: 5
+  m_Layer: 21
   m_Name: HealthText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8873,7 +8873,7 @@ GameObject:
   - component: {fileID: 701274440}
   - component: {fileID: 701274439}
   - component: {fileID: 701274438}
-  m_Layer: 20
+  m_Layer: 22
   m_Name: Prop (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9483,7 +9483,7 @@ GameObject:
   m_Component:
   - component: {fileID: 935827341}
   - component: {fileID: 935827342}
-  m_Layer: 20
+  m_Layer: 22
   m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10239,7 +10239,7 @@ GameObject:
   - component: {fileID: 1107559709}
   - component: {fileID: 1107559708}
   - component: {fileID: 1107559707}
-  m_Layer: 5
+  m_Layer: 22
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10667,7 +10667,7 @@ GameObject:
   - component: {fileID: 1151890455}
   - component: {fileID: 1151890454}
   - component: {fileID: 1151890453}
-  m_Layer: 5
+  m_Layer: 21
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10769,7 +10769,7 @@ GameObject:
   - component: {fileID: 1158412618}
   - component: {fileID: 1158412617}
   - component: {fileID: 1158412616}
-  m_Layer: 5
+  m_Layer: 22
   m_Name: HealthText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19502,7 +19502,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2115073258}
   - component: {fileID: 2115073259}
-  m_Layer: 20
+  m_Layer: 21
   m_Name: Shadow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
